@@ -5,9 +5,26 @@
 </div>
 <br />
 
-# The ultimate online community for athletes of all levels
+# Sports Buddy
+
+![downloads badge](https://img.shields.io/badge/downloads-400%2Fmonth-brightgreen)
+![users badge](https://img.shields.io/badge/users-%2B5000-brightgreen)
+![version badge](https://img.shields.io/badge/version-2.7.0-blue)
 
 Say goodbye to solo sports sessions and hello to Sports Buddy 🏄🏼‍♂️🪂🏂⛷️🏋🏽🧘🏽🧗🏻‍♀️🚴🏼‍♀️🤺⛹🏼‍♂️🤾🏽‍♀️
+
+At Sports Buddy, we believe that sports bring people together, create unforgettable experiences, and foster lifelong friendships. That's why we've created an innovative platform that connects sports enthusiasts like never before.
+
+<div align="center">
+  <a href="https://sportsbuddy.org" target="_blank">
+    <img src="https://sportsbuddy.org/img/phones.png" width="300px" alt="Sports Buddy app banner" />
+  </a>
+</div>
+<br />
+
+## Features
+
+With more than 100 sports available, there's something for everyone on Sports Buddy 🤟🏼
 
 - Find like-minded individuals in your area to play your favorite sports with, all through the convenience of our app 📱
 - Browse recommended activities created by users or create your own to attract nearby athletes 👭👬
@@ -15,25 +32,19 @@ Say goodbye to solo sports sessions and hello to Sports Buddy 🏄🏼‍♂️�
 - Connect with other athletes through chat 💬
 - Stay informed on events happening in your area through our partnerships with sports centers and clubs 📢
 
-With more than 100 sports available, there's something for everyone on Sports Buddy. 🎉
+## Where are we?
 
-So what are you waiting for?
-Download the app now and join the community 🤟🏼
+Sports Buddy was launched half-year ago. Currently we are focused on Spain, expanding from Barcelona to the whole country. With more than 1000 connections between buddies and 2000 sports activities created so far, we provide a dynamic and inclusive community for individuals who share a passion for sports.
 
-# Where are we?
+## Support or issues
 
-Sports Buddy was launched half-year ago. Currently we are focused on Spain, expanding from Barcelona to the whole country. Our current metrics:
+Visit our [website](https://sportsbuddy.org/) to get started and be a part of the Sports Buddy revolution today!
 
-- 4500 users...
-- 400 daily active users...
-- +1000 connections between buddies...
-- +2000 sports activities created...
+If you find an issue or bug you can either [open an issue](https://github.com/Sports-Buddy-App/.github/issues) using this same public repo or email us at [info@sportsbuddy.org](mailto:info@sportsbuddy.org).
 
-so far.
+## Join us
 
-# Join us
-
-Download the app on iOS or Android NOW! Scan this QR code with your phone and you'll get redirected to the stores.
+Don't let your love for sports go unnoticed. Download the app on iOS or Android NOW! Scan this QR code with your phone and you'll get redirected to the stores.
 
 <div align="center">
   <a href="https://sportsbuddy.org" target="_blank">
